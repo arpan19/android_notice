@@ -39,7 +39,7 @@ public class menu2_Fragment extends Fragment {
     {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
-    }
+    }//for a refresh menu ,has a menu
 
 
     @Override
